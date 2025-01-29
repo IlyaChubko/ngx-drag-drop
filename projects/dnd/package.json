@@ -1,10 +1,10 @@
 {
-  "name": "@chubkoiv/ngx-drag-drop",
+  "name": "@chubkoiv/ngx-drag-drop-shadowdom",
   "version": "18.0.2",
   "description": "Angular directives using the native HTML Drag And Drop API",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reppners/ngx-drag-drop.git"
+    "url": "https://github.com/IlyaChubko/ngx-drag-drop.git"
   },
   "homepage": "https://reppners.github.io/ngx-drag-drop/",
   "author": {
